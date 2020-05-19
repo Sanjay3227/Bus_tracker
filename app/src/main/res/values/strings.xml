@@ -4,7 +4,7 @@
 
     <string name="navigation_drawer_open">Open navigation drawer</string>
     <string name="navigation_drawer_close">Close navigation drawer</string>
-    <string name="key">AIzaSyD3zjHLCfQV2cOl_WlPzAYwoh-V4KKgpGM</string>
+    <string name="key">PASTE YOUR API KEY</string>
 
     //Runtastic Strings
     <string name="start_live">Start   Live\nRunning</string>
