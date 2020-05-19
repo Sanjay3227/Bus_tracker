@@ -1,0 +1,18 @@
+<resources>
+    <string name="app_name">Locator</string>
+    <string name="title_activity_maps">Map</string>
+
+    <string name="navigation_drawer_open">Open navigation drawer</string>
+    <string name="navigation_drawer_close">Close navigation drawer</string>
+    <string name="key">AIzaSyD3zjHLCfQV2cOl_WlPzAYwoh-V4KKgpGM</string>
+
+    //Runtastic Strings
+    <string name="start_live">Start   Live\nRunning</string>
+    <string name="pause">Pause</string>
+    <string name="resume">Resume</string>
+    <string name="reset">Reset</string>
+    <string name="stop">Stop</string>
+    <string name="duration">Duration</string>
+    <string name="distance">Distance (meter)</string>
+    <string name="distance_value">00.00</string>
+</resources>
